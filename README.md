@@ -6,8 +6,8 @@ Godot wild jam 24 entry
 family
 
 ### wild cards
-- [ x ] pet the dog
-- [  ] secret passage
-- [  ] quip it good
-- [  ] watchmaker
+- [x] pet the dog
+- [ ] secret passage
+- [ ] quip it good
+- [ ] watchmaker
  
